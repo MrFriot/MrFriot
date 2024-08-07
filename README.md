@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrFriot
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web
+- 🌱 I’m currently learning ALL
 - 📫 How to contact me in telegram: @mrfriot
 - ⚡ Fun fact: I use Arch, btw (:
 
